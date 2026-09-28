@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e7d32,100:66bb6a&height=160&section=header&text=Pedro%20Henrique&fontSize=40&fontColor=ffffff&desc=Estudante%20de%20DSM&descAlignY=70" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e7d32,100:66bb6a&height=120&section=header" width="100%">
+
+<h1 align="center">Olá! Eu sou o Pedro 👋</h1>
+<p align="center">Estudante de Desenvolvimento de Software Multiplataforma</p>
 
 ## 👋 Sobre mim
 
